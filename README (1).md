@@ -1,5 +1,9 @@
 
-# Operation [Discord Bot]
+# Operation  [DiscordBot]
+
+![App Screenshot](https://github.com/qpeckin/cacaprout/blob/main/IMGs/caba_500.png?raw=true)
+
+
 
 
 
@@ -25,13 +29,14 @@
 
 ## 🛠️ Main Features
 
-- SMS Spoofer
+- SMS Spoofer [[Screen 1]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/sms_spoof_prev1.png?raw=true) - [[Screen 2]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/sms_spoof_prev2.png?raw=true)
 - SMS Verifier
 - Media Services
 - Mail Services
-- TTS Creator 
-- Images Generator (AI)
-
+- TTS Creator [[Screen]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/tts_prev.png?raw=true)
+- Images Generator (AI) [[Screen]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/generate_img_prev.png?raw=true)
+- Balance Check (Eng/FR) [[Screen 🇺🇸]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/cash_eng_prev.png?raw=true) - [[Screen 🇫🇷]](https://github.com/qpeckin/cacaprout/blob/main/IMGs/cash_fr_prev.png?raw=true)
+ 
 
 
 ## 📑Overview
@@ -39,7 +44,7 @@
 Operation is a multi purposes discord bot, the bot is an AI based.
 The bot is made for being angry and unpleasant with every users except for his creator.
 
-- Can generate images using OpenAI
+- Can generate images using OpenAI 
 - You don't have to add a prefix for the commands, he understand the messages
 - Cool SMS Spoofer features : Country code, Custom sender, Get Tokens...
 - Mail Services : Send multiple mail to the specific email (IMAP)
